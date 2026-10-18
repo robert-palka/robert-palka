@@ -1,13 +1,13 @@
 # Hi, I'm Robert Palka
 
-Cybersecurity professional with over five years in the financial sector, working across SOC monitoring, incident response, digital forensics and insider risk, with a growing focus on AI, cloud, and detection engineering.
+Cybersecurity professional with over five years in the financial sector, working across SOC monitoring and response, digital forensics and insider risk, with a growing focus on AI, cloud, and detection engineering.
 
 Before cybersecurity, I qualified and practised as an attorney (including work as a public prosecutor), taught for over 20 years in South Africa and Japan, including 17 years lecturing at Japanese universities, and coached professional and national-team athletes as a strength and conditioning coach. That background shapes how I work: I read policy and regulation closely, handle evidence with care, explain technical findings clearly to non-technical audiences, and approach learning and performance in a structured, measurable way.
 
 ## Experience
 
-- **3.5+ years in SOC monitoring and incident response**
-- **2 years in digital forensics and insider risk investigations**, while continuing to support the SOC team on escalations
+- **3.5+ years in SOC monitoring and response**
+- **2 years in digital forensics and insider risk investigations**, while continuing to support the SOC monitoring and response team on escalations
 
 ## Home lab (built in phases)
 
