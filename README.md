@@ -20,10 +20,10 @@ Before cybersecurity, I qualified and practised as an attorney (including work a
 
 **Next phases:**
 
-- Cloud security lab in Azure
-- AI security testing against a locally hosted LLM
-- Detection and automation scripting in Python
-- A DFIR case study, written up end to end
+- [Detection and response lab in Azure](https://github.com/robert-palka/azure-sentinel-detection-lab) (Microsoft Sentinel, Defender XDR, Entra ID)
+- [AI security: attacking and defending a locally hosted LLM](https://github.com/robert-palka/llm-security-testing)
+- [Detection and automation tools in Python](https://github.com/robert-palka/security-automation-python)
+- [A DFIR case study, written up end to end](https://github.com/robert-palka/dfir-case-study)
 
 **Later:** an attack-and-defence setup with Metasploit, to test the detections against real attack tooling.
 
