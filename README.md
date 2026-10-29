@@ -27,7 +27,7 @@ Before cybersecurity, I qualified and practised as an attorney (including work a
 
 **Later:** an attack-and-defence setup with Metasploit, to test the detections against real attack tooling.
 
-Lab repository coming soon.
+Lab repository: [ad-elastic-detection-lab](https://github.com/robert-palka/ad-elastic-detection-lab)
 
 ## Currently learning
 
