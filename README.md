@@ -11,7 +11,7 @@ Before cybersecurity, I qualified and practised as an attorney (including work a
 
 ## Home lab (built in phases)
 
-**Phase 1 (so far):**
+**Phase 1 (complete):**
 
 - Active Directory domain (Windows Server 2025) with a Windows 11 endpoint running Sysmon
 - Self-hosted Elastic SIEM (Elasticsearch, Kibana, Fleet) collecting endpoint telemetry
@@ -25,7 +25,7 @@ Before cybersecurity, I qualified and practised as an attorney (including work a
 - [Detection and automation tools in Python](https://github.com/robert-palka/security-automation-python)
 - [A DFIR case study, written up end to end](https://github.com/robert-palka/dfir-case-study)
 
-**Later:** an attack-and-defence setup with Metasploit, to test the detections against real attack tooling.
+**Also planned in the lab repository:** Sigma versions of the detection rules, and repeatable attack simulations (Atomic Red Team, later Metasploit) to regression-test them.
 
 Lab repository: [ad-elastic-detection-lab](https://github.com/robert-palka/ad-elastic-detection-lab)
 
