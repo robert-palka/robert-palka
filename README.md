@@ -20,8 +20,8 @@ Before cybersecurity, I qualified and practised as an attorney (including work a
 
 **Next phases:**
 
+- [An AI alert-triage assistant, measured for accuracy, then attacked and defended](https://github.com/robert-palka/ai-soc-assistant-security) (local LLM, Elastic SIEM, garak and PyRIT, MITRE ATLAS)
 - [Detection and response lab in Azure](https://github.com/robert-palka/azure-sentinel-detection-lab) (Microsoft Sentinel, Defender XDR, Entra ID)
-- [AI security: attacking and defending a locally hosted LLM](https://github.com/robert-palka/llm-security-testing)
 - [Detection and automation tools in Python](https://github.com/robert-palka/security-automation-python)
 - [A DFIR case study, written up end to end](https://github.com/robert-palka/dfir-case-study)
 
