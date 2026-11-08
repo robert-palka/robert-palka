@@ -7,7 +7,7 @@ Before cybersecurity, I qualified and practised as an attorney (including work a
 ## Experience
 
 - **3.5+ years in SOC monitoring and response**
-- **2 years in digital forensics and insider risk investigations**, while continuing to support the SOC monitoring and response team on escalations
+- **2 years in digital forensics and insider risk investigations** (including AI-related cases: prompt-injection and jailbreak alerts, and AI-usage insider risk), while continuing to support the SOC monitoring and response team on escalations
 
 ## Home lab (built in phases)
 
@@ -31,6 +31,7 @@ Lab repository: [ad-elastic-detection-lab](https://github.com/robert-palka/ad-el
 
 ## Currently learning
 
+- Building and securing AI for security operations: a local LLM triage assistant, AI red teaming (garak, PyRIT), detections mapped to MITRE ATLAS
 - Python for security: log parsing and automation
 - Studying for CISSP
 
